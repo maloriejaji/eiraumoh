@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iicooleix.richardstelling.com/sitemap.xml
